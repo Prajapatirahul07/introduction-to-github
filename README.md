@@ -27,3 +27,12 @@ It is helpful for mananing version of code and helpful for collaboration.
 #### h4
 ##### h5
 ###### h6
+
+##Image
+
+![Image of cat](https://listproducer.com/wp-content/uploads/2014/10/cute.jpg)
+
+##Task List
+- [x] Github
+- [x] VScode
+- [ ] javascript
