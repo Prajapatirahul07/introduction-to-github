@@ -11,3 +11,9 @@ This section contains some resources to help you learn how to use GitHub.
 
 Markdown is a lightweight syntax for communicating on GitHub. 
 You can format text to add heading, lists, bold, italics, tables, and many other stylings.
+
+
+<h2>Repository</h2>
+
+Repository is a place where we store our code and documentations.
+It is helpful for mananing version of code and helpful for collaboration.
